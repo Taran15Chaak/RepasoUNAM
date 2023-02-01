@@ -3,9 +3,11 @@ En este repo desglosaremos los temas tratados en la Guía de ingreso UNAM-2023, 
 
 En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada tema contará con su respectivo [Jupyter Notebook](https://jupyter.org/), referenciado en un link de [Google Colab](https://colab.research.google.com/). Además se busca contar con actividades didácticas que ayuden a recordar mejor los temas.
 
+## Temario
+
 | Asignatura | Tema | Link | Completo |
 |:--------------:|:-----:|:-----------:|:-----:|
-| Biología | Célula | Pendiente | <ul><li>- [ ]  </li></ul> 
+| Biología | Célula | Pendiente | <ul><li>- [ ]</li></ul> 
 | Biología | Metabolismo celular | Pendiente |
 | Biología | Reproducción | Pendiente |
 | Biología | Mecanismos de la herencia | Pendiente |
@@ -50,6 +52,6 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 | Matemáticas | Pendiente | Pendiente |
 | Química | Pendiente | Pendiente |
 
-Puede parecer pesado, pero vale la pena. No te desanimes y se constante.
+### Puede parecer pesado, pero vale la pena. No te desanimes y se constante.
 
 :wolf:
