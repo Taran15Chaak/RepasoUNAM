@@ -31,48 +31,48 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 |Física | Física contemporánea | Fisica_cont.ipynb | <ul><li>- [ ] </li></ul>
 |Geografía | La Tierra, base del desarrollo del hombre | Hombre_desarrollo.ipynb | <ul><li>- [ ] </li></ul>
 |Geografía | Geografía humana: el paisaje cultural (espacio geográfico) | Geografia_humana.ipynb | <ul><li>- [ ] </li></ul>
-|Historia de México | La Nueva España (siglos XVI a XIX) | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia de México | El movimiento de Independencia de la Nueva España (1810 – 1821) | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia de México | México independiente (1821 – 1854) | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia de México | La Reforma liberal y la resistencia de la República (1854 – 1876) | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia de México | El Porfiriato (1876 – 1911) | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia de México | La Revolución Mexicana (1910 – 1920) | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia de México | La reconstrucción nacional (1920 – 1940) | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia de México | México contemporáneo (1940 – 2000) | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia Universal | La Historia | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia Universal | Las revoluciones burguesas | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia Universal | Pensamiento y movimientos sociales y políticos del siglo XIX | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia Universal | El imperialismo | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia Universal | La Primera Guerra Mundial | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia Universal | El mundo entre guerras | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia Universal | La Segunda Guerra Mundial | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia Universal | El conflicto entre el capitalismo y el socialismo | Pendiente | <ul><li>- [ ] </li></ul>
-|Historia Universal | El mundo actual | Pendiente | <ul><li>- [ ] </li></ul>
-|Literatura | El texto | Pendiente | <ul><li>- [ ] </li></ul>
-|Literatura | Géneros y corrientes literarias | Pendiente | <ul><li>- [ ] </li></ul>
-|Literatura | Redacción y técnicas de investigación documental | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Operaciones con números reales, complejos y expresiones algebraicas | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Productos notables y factorización | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Ecuaciones | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Desigualdades | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Sistemas de ecuaciones | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Funciones algebraicas | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Trigonometría | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Funciones trigonométricas | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Funciones exponenciales y logarítmicas | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Recta | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Circunferencia | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Elipse | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Hipérbola | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Ecuación general de segundo grado | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Límites | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Derivadas | Pendiente | <ul><li>- [ ] </li></ul>
-|Matemáticas | Integrales | Pendiente | <ul><li>- [ ] </li></ul>
-|Química | Temas básicos | Pendiente | <ul><li>- [ ] </li></ul>
-|Química | Agua | Pendiente | <ul><li>- [ ] </li></ul>
-|Química | Aire | Pendiente | <ul><li>- [ ] </li></ul>
-|Química | Alimentos | Pendiente | <ul><li>- [ ] </li></ul>
-|Química | La energía y las reacciones químicas | Pendiente | <ul><li>- [ ] </li></ul>
+|Historia de México | La Nueva España (siglos XVI a XIX) | Nueva_espana.ipynb | <ul><li>- [ ] </li></ul>
+|Historia de México | El movimiento de Independencia de la Nueva España (1810 – 1821) | Independencia.ipynb | <ul><li>- [ ] </li></ul>
+|Historia de México | México independiente (1821 – 1854) | Mexico_independiente.ipynb | <ul><li>- [ ] </li></ul>
+|Historia de México | La Reforma liberal y la resistencia de la República (1854 – 1876) | Reforma_liberal.ipynb | <ul><li>- [ ] </li></ul>
+|Historia de México | El Porfiriato (1876 – 1911) | Porfiriato.ipynb | <ul><li>- [ ] </li></ul>
+|Historia de México | La Revolución Mexicana (1910 – 1920) | Revolucion.ipynb | <ul><li>- [ ] </li></ul>
+|Historia de México | La reconstrucción nacional (1920 – 1940) | Reconstrucción.ipynb | <ul><li>- [ ] </li></ul>
+|Historia de México | México contemporáneo (1940 – 2000) | Mexico_cont.ipynb | <ul><li>- [ ] </li></ul>
+|Historia Universal | La Historia | La_historia.ipynb | <ul><li>- [ ] </li></ul>
+|Historia Universal | Las revoluciones burguesas | Revoluciones_burguesas.ipynb | <ul><li>- [ ] </li></ul>
+|Historia Universal | Pensamiento y movimientos sociales y políticos del siglo XIX | Siglo_XIX.ipynb | <ul><li>- [ ] </li></ul>
+|Historia Universal | El imperialismo | Imperialismo.ipynb | <ul><li>- [ ] </li></ul>
+|Historia Universal | La Primera Guerra Mundial | PGM.ipynb | <ul><li>- [ ] </li></ul>
+|Historia Universal | El mundo entre guerras | Entre_guerras.ipynb | <ul><li>- [ ] </li></ul>
+|Historia Universal | La Segunda Guerra Mundial | SGM.ipynb | <ul><li>- [ ] </li></ul>
+|Historia Universal | El conflicto entre el capitalismo y el socialismo | Cap_vs_soc.ipynb | <ul><li>- [ ] </li></ul>
+|Historia Universal | El mundo actual | Mundo_actual.ipynb | <ul><li>- [ ] </li></ul>
+|Literatura | El texto | Texto.ipynb | <ul><li>- [ ] </li></ul>
+|Literatura | Géneros y corrientes literarias | Corrientes_lit.ipynb | <ul><li>- [ ] </li></ul>
+|Literatura | Redacción y técnicas de investigación documental | Redaccion.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Operaciones con números reales, complejos y expresiones algebraicas | Reales.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Productos notables y factorización | Factorizacion.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Ecuaciones | Ecuaciones.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Desigualdades | Desigualdades.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Sistemas de ecuaciones | Sistemas.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Funciones algebraicas | Funciones_alg.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Trigonometría | Trigonometria.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Funciones trigonométricas | Funciones_trigo.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Funciones exponenciales y logarítmicas | exp_log.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Recta | Recta.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Circunferencia | Circunferencia.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Elipse | Elipse.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Hipérbola | Hiperbola.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Ecuación general de segundo grado | Segundo_grado.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Límites | Limites.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Derivadas | Derivadas.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Integrales | Integrales.ipynb | <ul><li>- [ ] </li></ul>
+|Química | Temas básicos | Temas_basicos.ipynb | <ul><li>- [ ] </li></ul>
+|Química | Agua | Agua.ipynb | <ul><li>- [ ] </li></ul>
+|Química | Aire | Aire.ipynb | <ul><li>- [ ] </li></ul>
+|Química | Alimentos | Alimentos.ipynb | <ul><li>- [ ] </li></ul>
+|Química | La energía y las reacciones químicas | Reacciones.ipynb | <ul><li>- [ ] </li></ul>
 
 ### Puede parecer pesado, pero vale la pena. No te desanimes y se constante.
 
