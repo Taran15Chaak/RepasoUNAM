@@ -10,27 +10,27 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 |Biología | Célula | [La_celula.ipynb](https://is.gd/CU5DaP) | <ul><li>- [ ] </li></ul>
 |Biología | Metabolismo celular | [Metabolismo.ipynb](https://is.gd/KacEYM) | <ul><li>- [ ] </li></ul>
 |Biología | Reproducción | [Reproduccion.ipynb](https://is.gd/dArwVv) | <ul><li>- [ ] </li></ul>
-|Biología | Mecanismos de la herencia | Pendiente | <ul><li>- [ ] </li></ul>
-|Biología | Evolución | Pendiente | <ul><li>- [ ] </li></ul>
-|Biología | Los seres vivos y su ambiente | Pendiente | <ul><li>- [ ] </li></ul>
-|Español | Funciones de la lengua | Pendiente | <ul><li>- [ ] </li></ul>
-|Español | Formas del discurso | Pendiente | <ul><li>- [ ] </li></ul>
-|Español | Comprensión de lectura | Pendiente | <ul><li>- [ ] </li></ul>
-|Español | Gramática | Pendiente | <ul><li>- [ ] </li></ul>
-|Español | Redacción | Pendiente | <ul><li>- [ ] </li></ul>
-|Español | Vocabulario | Pendiente | <ul><li>- [ ] </li></ul>
-|Español | Ortografía | Pendiente | <ul><li>- [ ] </li></ul>
-|Física | Cinemática | Pendiente | <ul><li>- [ ] </li></ul>
-|Física | Fuerzas, leyes de Newton y Ley de la Gravitación Universal | Pendiente | <ul><li>- [ ] </li></ul>
-|Física | Trabajo y leyes de la conservación | Pendiente | <ul><li>- [ ] </li></ul>
-|Física | Termodinámica | Pendiente | <ul><li>- [ ] </li></ul>
-|Física | Ondas | Pendiente | <ul><li>- [ ] </li></ul>
-|Física | Electromagnetismo | Pendiente | <ul><li>- [ ] </li></ul>
-|Física | Fluidos | Pendiente | <ul><li>- [ ] </li></ul>
-|Física | Óptica | Pendiente | <ul><li>- [ ] </li></ul>
-|Física | Física contemporánea | Pendiente | <ul><li>- [ ] </li></ul>
-|Geografía | La Tierra, base del desarrollo del hombre | Pendiente | <ul><li>- [ ] </li></ul>
-|Geografía | Geografía humana: el paisaje cultural (espacio geográfico) | Pendiente | <ul><li>- [ ] </li></ul>
+|Biología | Mecanismos de la herencia | Herencia.ipynb | <ul><li>- [ ] </li></ul>
+|Biología | Evolución | Evolucion.ipynb | <ul><li>- [ ] </li></ul>
+|Biología | Los seres vivos y su ambiente | Seres_Vivos.ipynb | <ul><li>- [ ] </li></ul>
+|Español | Funciones de la lengua | Funciones_lengua.ipynb | <ul><li>- [ ] </li></ul>
+|Español | Formas del discurso | Discurso.ipynb | <ul><li>- [ ] </li></ul>
+|Español | Comprensión de lectura | Comprension.ipynb | <ul><li>- [ ] </li></ul>
+|Español | Gramática | Gramatica.ipynb | <ul><li>- [ ] </li></ul>
+|Español | Redacción | Redaccion.ipynb | <ul><li>- [ ] </li></ul>
+|Español | Vocabulario | Vocabulario.ipynb | <ul><li>- [ ] </li></ul>
+|Español | Ortografía | Ortografia.ipynb | <ul><li>- [ ] </li></ul>
+|Física | Cinemática | Cinematica.ipynb | <ul><li>- [ ] </li></ul>
+|Física | Fuerzas, leyes de Newton y Ley de la Gravitación Universal | Newton.ipynb | <ul><li>- [ ] </li></ul>
+|Física | Trabajo y leyes de la conservación | Energia.ipynb | <ul><li>- [ ] </li></ul>
+|Física | Termodinámica | Termodinamica.ipynb | <ul><li>- [ ] </li></ul>
+|Física | Ondas | Ondas.ipynb | <ul><li>- [ ] </li></ul>
+|Física | Electromagnetismo | Magnetismo.ipynb | <ul><li>- [ ] </li></ul>
+|Física | Fluidos | Fluidos.ipynb | <ul><li>- [ ] </li></ul>
+|Física | Óptica | Optica.ipynb | <ul><li>- [ ] </li></ul>
+|Física | Física contemporánea | Fisica_cont.ipynb | <ul><li>- [ ] </li></ul>
+|Geografía | La Tierra, base del desarrollo del hombre | Hombre_desarrollo.ipynb | <ul><li>- [ ] </li></ul>
+|Geografía | Geografía humana: el paisaje cultural (espacio geográfico) | Geografia_humana.ipynb | <ul><li>- [ ] </li></ul>
 |Historia de México | La Nueva España (siglos XVI a XIX) | Pendiente | <ul><li>- [ ] </li></ul>
 |Historia de México | El movimiento de Independencia de la Nueva España (1810 – 1821) | Pendiente | <ul><li>- [ ] </li></ul>
 |Historia de México | México independiente (1821 – 1854) | Pendiente | <ul><li>- [ ] </li></ul>
