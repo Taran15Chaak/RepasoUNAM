@@ -9,7 +9,7 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 |:--------------:|:-----:|:-----------:|:-----:|
 |Biología | Célula | [La_celula.ipynb](https://is.gd/CU5DaP) | <ul><li>- [ ] </li></ul>
 |Biología | Metabolismo celular | [Metabolismo.ipynb](https://is.gd/KacEYM) | <ul><li>- [ ] </li></ul>
-|Biología | Reproducción | [Reproduccion.ipynb](https://is.gd/JDOgQp) | <ul><li>- [ ] </li></ul>
+|Biología | Reproducción | [Reproduccion.ipynb](https://is.gd/dArwVv) | <ul><li>- [ ] </li></ul>
 |Biología | Mecanismos de la herencia | Pendiente | <ul><li>- [ ] </li></ul>
 |Biología | Evolución | Pendiente | <ul><li>- [ ] </li></ul>
 |Biología | Los seres vivos y su ambiente | Pendiente | <ul><li>- [ ] </li></ul>
