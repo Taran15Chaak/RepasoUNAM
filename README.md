@@ -7,7 +7,7 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 
 | Asignatura | Tema | Link | Completo |
 |:--------------:|:-----:|:-----------:|:-----:|
-| Biología | Célula | Pendiente | <ul><li>- [ ]</li></ul> 
+| Biología | Célula | Pendiente | <ul><li>- [ ] </li></ul> 
 | Biología | Metabolismo celular | Pendiente |
 | Biología | Reproducción | Pendiente |
 | Biología | Mecanismos de la herencia | Pendiente |
