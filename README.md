@@ -30,7 +30,7 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 |Física | Óptica | Optica.ipynb | <ul><li>- [ ] </li></ul>
 |Física | Física contemporánea | Fisica_cont.ipynb | <ul><li>- [ ] </li></ul>
 |Geografía | La Tierra, base del desarrollo del hombre | [Hombre_desarrollo.ipynb](https://is.gd/OeZZUm) | <ul><li>- [ ] </li></ul>
-|Geografía | Geografía humana: el paisaje cultural (espacio geográfico) | Geografia_humana.ipynb | <ul><li>- [ ] </li></ul>
+|Geografía | Geografía humana: el paisaje cultural (espacio geográfico) | [Geografia_humana.ipynb](https://is.gd/43OjEA) | <ul><li>- [ ] </li></ul>
 |Historia de México | La Nueva España (siglos XVI a XIX) | [Nueva_espana.ipynb](https://is.gd/wWo65z) | <ul><li>- [ ] </li></ul>
 |Historia de México | El movimiento de Independencia de la Nueva España (1810 – 1821) | Independencia.ipynb | <ul><li>- [ ] </li></ul>
 |Historia de México | México independiente (1821 – 1854) | Mexico_independiente.ipynb | <ul><li>- [ ] </li></ul>
