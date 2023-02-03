@@ -32,13 +32,13 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 |Geografía | La Tierra, base del desarrollo del hombre | [Hombre_desarrollo.ipynb](https://is.gd/OeZZUm) | <ul><li>- [ ] </li></ul>
 |Geografía | Geografía humana: el paisaje cultural (espacio geográfico) | [Geografia_humana.ipynb](https://is.gd/43OjEA) | <ul><li>- [ ] </li></ul>
 |Historia de México | La Nueva España (siglos XVI a XIX) | [Nueva_espana.ipynb](https://is.gd/wWo65z) | <ul><li>- [ ] </li></ul>
-|Historia de México | El movimiento de Independencia de la Nueva España (1810 – 1821) | Independencia.ipynb | <ul><li>- [ ] </li></ul>
-|Historia de México | México independiente (1821 – 1854) | Mexico_independiente.ipynb | <ul><li>- [ ] </li></ul>
-|Historia de México | La Reforma liberal y la resistencia de la República (1854 – 1876) | Reforma_liberal.ipynb | <ul><li>- [ ] </li></ul>
-|Historia de México | El Porfiriato (1876 – 1911) | Porfiriato.ipynb | <ul><li>- [ ] </li></ul>
-|Historia de México | La Revolución Mexicana (1910 – 1920) | Revolucion.ipynb | <ul><li>- [ ] </li></ul>
-|Historia de México | La reconstrucción nacional (1920 – 1940) | Reconstrucción.ipynb | <ul><li>- [ ] </li></ul>
-|Historia de México | México contemporáneo (1940 – 2000) | Mexico_cont.ipynb | <ul><li>- [ ] </li></ul>
+|Historia de México | El movimiento de Independencia de la Nueva España (1810 – 1821) | [Independencia.ipynb](https://is.gd/HRIXUu) | <ul><li>- [ ] </li></ul>
+|Historia de México | México independiente (1821 – 1854) | [Mexico_independiente.ipynb](https://is.gd/QYTV9Y) | <ul><li>- [ ] </li></ul>
+|Historia de México | La Reforma liberal y la resistencia de la República (1854 – 1876) | [Reforma_liberal.ipynb](https://is.gd/dIOwRm) | <ul><li>- [ ] </li></ul>
+|Historia de México | El Porfiriato (1876 – 1911) | [Porfiriato.ipynb](https://is.gd/HiYCtF) | <ul><li>- [ ] </li></ul>
+|Historia de México | La Revolución Mexicana (1910 – 1920) | [Revolucion.ipynb](https://is.gd/sDIjcP) | <ul><li>- [ ] </li></ul>
+|Historia de México | La reconstrucción nacional (1920 – 1940) | [Reconstruccion.ipynb](https://is.gd/GLYOWH) | <ul><li>- [ ] </li></ul>
+|Historia de México | México contemporáneo (1940 – 2000) | [Mexico_cont.ipynb](https://is.gd/d2QZyW) | <ul><li>- [ ] </li></ul>
 |Historia Universal | La Historia | [La_historia.ipynb](https://is.gd/n51XP2) | <ul><li>- [ ] </li></ul>
 |Historia Universal | Las revoluciones burguesas | Revoluciones_burguesas.ipynb | <ul><li>- [ ] </li></ul>
 |Historia Universal | Pensamiento y movimientos sociales y políticos del siglo XIX | Siglo_XIX.ipynb | <ul><li>- [ ] </li></ul>
