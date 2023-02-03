@@ -49,8 +49,8 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 |Historia Universal | El conflicto entre el capitalismo y el socialismo | Cap_vs_soc.ipynb | <ul><li>- [ ] </li></ul>
 |Historia Universal | El mundo actual | Mundo_actual.ipynb | <ul><li>- [ ] </li></ul>
 |Literatura | El texto | [Texto.ipynb](https://is.gd/zSBbCy) | <ul><li>- [ ] </li></ul>
-|Literatura | Géneros y corrientes literarias | Corrientes_lit.ipynb | <ul><li>- [ ] </li></ul>
-|Literatura | Redacción y técnicas de investigación documental | Redaccion.ipynb | <ul><li>- [ ] </li></ul>
+|Literatura | Géneros y corrientes literarias | [Corrientes_lit.ipynb](https://is.gd/hsPsWA) | <ul><li>- [ ] </li></ul>
+|Literatura | Redacción y técnicas de investigación documental | [Redaccion.ipynb](https://is.gd/Xgyj9l) | <ul><li>- [ ] </li></ul>
 |Matemáticas | Operaciones con números reales, complejos y expresiones algebraicas | [Reales.ipynb](https://is.gd/FRYMBf) | <ul><li>- [ ] </li></ul>
 |Matemáticas | Productos notables y factorización | Factorizacion.ipynb | <ul><li>- [ ] </li></ul>
 |Matemáticas | Ecuaciones | Ecuaciones.ipynb | <ul><li>- [ ] </li></ul>
@@ -69,10 +69,10 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 |Matemáticas | Derivadas | Derivadas.ipynb | <ul><li>- [ ] </li></ul>
 |Matemáticas | Integrales | Integrales.ipynb | <ul><li>- [ ] </li></ul>
 |Química | Temas básicos | [Temas_basicos.ipynb](https://is.gd/tnVONM) | <ul><li>- [ ] </li></ul>
-|Química | Agua | Agua.ipynb | <ul><li>- [ ] </li></ul>
-|Química | Aire | Aire.ipynb | <ul><li>- [ ] </li></ul>
-|Química | Alimentos | Alimentos.ipynb | <ul><li>- [ ] </li></ul>
-|Química | La energía y las reacciones químicas | Reacciones.ipynb | <ul><li>- [ ] </li></ul>
+|Química | Agua | [Agua.ipynb](https://is.gd/0v6oVb) | <ul><li>- [ ] </li></ul>
+|Química | Aire | [Aire.ipynb](https://is.gd/gWoszR) | <ul><li>- [ ] </li></ul>
+|Química | Alimentos | [Alimentos.ipynb](https://is.gd/anwW2p) | <ul><li>- [ ] </li></ul>
+|Química | La energía y las reacciones químicas | [Reacciones.ipynb](https://is.gd/f8aaMu) | <ul><li>- [ ] </li></ul>
 
 ### Puede parecer pesado, pero vale la pena. No te desanimes y se constante.
 
