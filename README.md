@@ -22,13 +22,13 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 |Español | Ortografía | [Ortografia.ipynb](https://is.gd/rbnDbK) | <ul><li>- [ ] </li></ul>
 |Física | Cinemática | [Cinematica.ipynb](https://is.gd/9c8YYw) | <ul><li>- [ ] </li></ul>
 |Física | Fuerzas, leyes de Newton y Ley de la Gravitación Universal | [Newton.ipynb](https://is.gd/gy95MV) | <ul><li>- [ ] </li></ul>
-|Física | Trabajo y leyes de la conservación | Energia.ipynb | <ul><li>- [ ] </li></ul>
-|Física | Termodinámica | Termodinamica.ipynb | <ul><li>- [ ] </li></ul>
-|Física | Ondas | Ondas.ipynb | <ul><li>- [ ] </li></ul>
-|Física | Electromagnetismo | Magnetismo.ipynb | <ul><li>- [ ] </li></ul>
-|Física | Fluidos | Fluidos.ipynb | <ul><li>- [ ] </li></ul>
-|Física | Óptica | Optica.ipynb | <ul><li>- [ ] </li></ul>
-|Física | Física contemporánea | Fisica_cont.ipynb | <ul><li>- [ ] </li></ul>
+|Física | Trabajo y leyes de la conservación | [Energia.ipynb](https://is.gd/kmc5Fz) | <ul><li>- [ ] </li></ul>
+|Física | Termodinámica | [Termodinamica.ipynb](https://is.gd/TvpiH2) | <ul><li>- [ ] </li></ul>
+|Física | Ondas | [Ondas.ipynb](https://is.gd/8z3xqB) | <ul><li>- [ ] </li></ul>
+|Física | Electromagnetismo | [Magnetismo.ipynb](https://is.gd/rJMeWf) | <ul><li>- [ ] </li></ul>
+|Física | Fluidos | [Fluidos.ipynb](https://is.gd/9ZbWSR) | <ul><li>- [ ] </li></ul>
+|Física | Óptica | [Optica.ipynb](https://is.gd/IVD7d4) | <ul><li>- [ ] </li></ul>
+|Física | Física contemporánea | [Fisica_cont.ipynb](https://is.gd/6xH35J) | <ul><li>- [ ] </li></ul>
 |Geografía | La Tierra, base del desarrollo del hombre | [Hombre_desarrollo.ipynb](https://is.gd/OeZZUm) | <ul><li>- [ ] </li></ul>
 |Geografía | Geografía humana: el paisaje cultural (espacio geográfico) | [Geografia_humana.ipynb](https://is.gd/43OjEA) | <ul><li>- [ ] </li></ul>
 |Historia de México | La Nueva España (siglos XVI a XIX) | [Nueva_espana.ipynb](https://is.gd/wWo65z) | <ul><li>- [ ] </li></ul>
@@ -74,6 +74,6 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 |Química | Alimentos | [Alimentos.ipynb](https://is.gd/anwW2p) | <ul><li>- [ ] </li></ul>
 |Química | La energía y las reacciones químicas | [Reacciones.ipynb](https://is.gd/f8aaMu) | <ul><li>- [ ] </li></ul>
 
-### Puede parecer pesado, pero vale la pena. No te desanimes y se constante.
+### Puede parecer pesado, pero vale la pena. No te desanimes y sé constante.
 
 # :wolf:
