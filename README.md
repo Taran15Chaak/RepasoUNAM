@@ -53,22 +53,21 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 |Literatura | Redacción y técnicas de investigación documental | [Redaccion.ipynb](https://is.gd/Xgyj9l) | <ul><li>- [ ] </li></ul>
 |Matemáticas | Operaciones con números reales, complejos y expresiones algebraicas | [Reales.ipynb](https://is.gd/FRYMBf) | <ul><li>- [ ] </li></ul>
 |Matemáticas | Productos notables y factorización | [Factorizacion.ipynb](https://is.gd/CDC9Vu) | <ul><li>- [ ] </li></ul>
-|Matemáticas | Ecuaciones | [Ecuaciones
-.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Desigualdades | Desigualdades.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Sistemas de ecuaciones | Sistemas.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Funciones algebraicas | Funciones_alg.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Trigonometría | Trigonometria.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Funciones trigonométricas | Funciones_trigo.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Funciones exponenciales y logarítmicas | exp_log.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Recta | Recta.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Circunferencia | Circunferencia.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Elipse | Elipse.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Hipérbola | Hiperbola.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Ecuación general de segundo grado | Segundo_grado.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Límites | Limites.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Derivadas | Derivadas.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Integrales | Integrales.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Ecuaciones | [Ecuaciones.ipynb](https://is.gd/YVCuaQ) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Desigualdades | [Desigualdades.ipynb](https://is.gd/Un3nsK) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Sistemas de ecuaciones | [Sistemas.ipynb](https://is.gd/3F6Drm) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Funciones algebraicas | [Funciones_alg.ipynb](https://is.gd/5nd5Vk) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Trigonometría | [Trigonometria.ipynb](https://is.gd/CQ1UAa) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Funciones exponenciales y logarítmicas | [exp_log.ipynb](https://is.gd/aK3mDH) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Recta | [Recta.ipynb](https://is.gd/fVvken) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Circunferencia | [Circunferencia.ipynb](https://is.gd/DmTbYL) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Elipse | [Parabola.ipynb](https://is.gd/I3jDBH) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Elipse | [Elipse.ipynb](https://is.gd/H25EOa) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Hipérbola | [Hiperbola.ipynb](https://is.gd/I6LiOP) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Ecuación general de segundo grado | [Segundo_grado.ipynb](https://is.gd/SAVnvJ) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Límites | [Limites.ipynb](https://is.gd/MUNV9y) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Derivadas | [Derivadas.ipynb](https://is.gd/gEJpkE) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Integrales | [Integrales.ipynb](https://is.gd/xHbBVo) | <ul><li>- [ ] </li></ul>
 |Química | Temas básicos | [Temas_basicos.ipynb](https://is.gd/tnVONM) | <ul><li>- [ ] </li></ul>
 |Química | Agua | [Agua.ipynb](https://is.gd/0v6oVb) | <ul><li>- [ ] </li></ul>
 |Química | Aire | [Aire.ipynb](https://is.gd/gWoszR) | <ul><li>- [ ] </li></ul>
