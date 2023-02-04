@@ -40,14 +40,14 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 |Historia de México | La reconstrucción nacional (1920 – 1940) | [Reconstruccion.ipynb](https://is.gd/GLYOWH) | <ul><li>- [ ] </li></ul>
 |Historia de México | México contemporáneo (1940 – 2000) | [Mexico_cont.ipynb](https://is.gd/d2QZyW) | <ul><li>- [ ] </li></ul>
 |Historia Universal | La Historia | [La_historia.ipynb](https://is.gd/n51XP2) | <ul><li>- [ ] </li></ul>
-|Historia Universal | Las revoluciones burguesas | Revoluciones_burguesas.ipynb | <ul><li>- [ ] </li></ul>
-|Historia Universal | Pensamiento y movimientos sociales y políticos del siglo XIX | Siglo_XIX.ipynb | <ul><li>- [ ] </li></ul>
-|Historia Universal | El imperialismo | Imperialismo.ipynb | <ul><li>- [ ] </li></ul>
-|Historia Universal | La Primera Guerra Mundial | PGM.ipynb | <ul><li>- [ ] </li></ul>
-|Historia Universal | El mundo entre guerras | Entre_guerras.ipynb | <ul><li>- [ ] </li></ul>
-|Historia Universal | La Segunda Guerra Mundial | SGM.ipynb | <ul><li>- [ ] </li></ul>
-|Historia Universal | El conflicto entre el capitalismo y el socialismo | Cap_vs_soc.ipynb | <ul><li>- [ ] </li></ul>
-|Historia Universal | El mundo actual | Mundo_actual.ipynb | <ul><li>- [ ] </li></ul>
+|Historia Universal | Las revoluciones burguesas | [Revoluciones_burguesas.ipynb](https://is.gd/TP7aZv) | <ul><li>- [ ] </li></ul>
+|Historia Universal | Pensamiento y movimientos sociales y políticos del siglo XIX | [Siglo_XIX.ipynb](https://is.gd/aVvlsh) | <ul><li>- [ ] </li></ul>
+|Historia Universal | El imperialismo | [Imperialismo.ipynb](https://is.gd/D9n5rf) | <ul><li>- [ ] </li></ul>
+|Historia Universal | La Primera Guerra Mundial | [PGM.ipynb](https://is.gd/f0jEot) | <ul><li>- [ ] </li></ul>
+|Historia Universal | El mundo entre guerras | [Entre_guerras.ipynb](https://is.gd/PFvqL1) | <ul><li>- [ ] </li></ul>
+|Historia Universal | La Segunda Guerra Mundial | [SGM.ipynb](https://is.gd/F2O8ID) | <ul><li>- [ ] </li></ul>
+|Historia Universal | El conflicto entre el capitalismo y el socialismo | [Cap_vs_soc.ipynb](https://is.gd/Y19lAI) | <ul><li>- [ ] </li></ul>
+|Historia Universal | El mundo actual | [Mundo_actual.ipynb](https://is.gd/LECGco) | <ul><li>- [ ] </li></ul>
 |Literatura | El texto | [Texto.ipynb](https://is.gd/zSBbCy) | <ul><li>- [ ] </li></ul>
 |Literatura | Géneros y corrientes literarias | [Corrientes_lit.ipynb](https://is.gd/hsPsWA) | <ul><li>- [ ] </li></ul>
 |Literatura | Redacción y técnicas de investigación documental | [Redaccion.ipynb](https://is.gd/Xgyj9l) | <ul><li>- [ ] </li></ul>
