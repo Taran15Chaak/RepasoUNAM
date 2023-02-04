@@ -1,5 +1,5 @@
 # Repaso UNAM
-En este repo desglosaremos los temas tratados en la Guía de ingreso UNAM-2023, con el propósito de realizar un repaso de general de los temas tratados en el concurso de selección.
+En este repo desglosaremos los temas tratados en la Guía de ingreso UNAM-2023, con el propósito de realizar un repaso general de los temas tratados en el concurso de selección.
 
 En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada tema contará con su respectivo [Jupyter Notebook](https://jupyter.org/), referenciado en un link de [Google Colab](https://colab.research.google.com/). Además se busca contar con actividades didácticas que ayuden a recordar mejor los temas.
 
@@ -52,8 +52,9 @@ En la siguiente tabla se desglosan los temas a tratar en cada asignatura. Cada t
 |Literatura | Géneros y corrientes literarias | [Corrientes_lit.ipynb](https://is.gd/hsPsWA) | <ul><li>- [ ] </li></ul>
 |Literatura | Redacción y técnicas de investigación documental | [Redaccion.ipynb](https://is.gd/Xgyj9l) | <ul><li>- [ ] </li></ul>
 |Matemáticas | Operaciones con números reales, complejos y expresiones algebraicas | [Reales.ipynb](https://is.gd/FRYMBf) | <ul><li>- [ ] </li></ul>
-|Matemáticas | Productos notables y factorización | Factorizacion.ipynb | <ul><li>- [ ] </li></ul>
-|Matemáticas | Ecuaciones | Ecuaciones.ipynb | <ul><li>- [ ] </li></ul>
+|Matemáticas | Productos notables y factorización | [Factorizacion.ipynb](https://is.gd/CDC9Vu) | <ul><li>- [ ] </li></ul>
+|Matemáticas | Ecuaciones | [Ecuaciones
+.ipynb | <ul><li>- [ ] </li></ul>
 |Matemáticas | Desigualdades | Desigualdades.ipynb | <ul><li>- [ ] </li></ul>
 |Matemáticas | Sistemas de ecuaciones | Sistemas.ipynb | <ul><li>- [ ] </li></ul>
 |Matemáticas | Funciones algebraicas | Funciones_alg.ipynb | <ul><li>- [ ] </li></ul>
